@@ -120,7 +120,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+my-app/packages/rag-conversation/rag_conversation/.env
 .venv
 env/
 venv/
